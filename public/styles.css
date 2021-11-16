@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    font-size: 7vw;
+    }
+.recipe {
+  direction: rtl;
+  text-align: right;
+  color: white;
+}
+h1 {
+  font-size: 100%;
+}
+p {
+  font-size: 50%;
+}
+.recipe_container {
+    padding-right: 5%;
+    padding-left: 5%;
+}
