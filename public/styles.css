@@ -1,6 +1,7 @@
 body {
     background-color: black;
     font-size: 7vw;
+    font-family: Helvetica, sans-serif;
     }
 .recipe {
   direction: rtl;
@@ -9,9 +10,12 @@ body {
 }
 h1 {
   font-size: 100%;
+  margin-bottom: 0.2em;
 }
 p {
   font-size: 50%;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
 }
 .recipe_container {
     padding-right: 5%;
